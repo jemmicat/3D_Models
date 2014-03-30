@@ -1,0 +1,4 @@
+﻿"Symbol";"Value";"Unit";
+"DESIGN";"HTSM, Hexagonal Metal Standoff, Style 2, Mild Steel, RMS-232, Zinc Zn3B Plating, RMS-236";"";
+"REFERENCE";"HTSM-M3-8-5-2";"";
+"SUPPLIER";"RICHCO";"";
